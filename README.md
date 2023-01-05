@@ -5,7 +5,7 @@
 - 📫 Reach me at gabrielyt219@gmail.com or search on any social media for @GabiBrawl
 
 ## About me
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GabiBrawl&show_icons=true&theme=dark"/>
 
 <!---
 GabiBrawl/GabiBrawl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
