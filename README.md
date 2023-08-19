@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabiBrawl
-- 👀 I’m interested in Programming, Drawing and Tech
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m building LePlayer streaming service
+- 👀 I’m interested in Programming and Tech
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m trying to build LePlayer, a next-gen streaming service
 - 📫 Reach me at gabrielyt219@gmail.com or search on any social media for @GabiBrawl
 
 ## About me
