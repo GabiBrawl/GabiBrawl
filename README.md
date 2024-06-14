@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @GabiBrawl
+<h1 align="center">Hi 👋, I'm GabiBrawl</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabibrawl&label=Profile%20views&color=0e75b6&style=flat" alt="gabibrawl" /> </p>
+
 - 👀 I’m interested in Programming and Tech
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m trying to build ![LePlayer](https://github.com/LePlayer-music), a music streaming service
+- 💞️ I’m curretly working on ![LePlayer Music](https://github.com/LePlayer-music), a music streaming service (maybe a self-hosted alternative)
+- ⚡ Fun fact **whatever I say I know I actually don't**
 - 📫 Reach me at gabrielyt219@gmail.com or check my links
 
 ## About me
@@ -14,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center">Hi 👋, I'm GabiBrawl</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabibrawl&label=Profile%20views&color=0e75b6&style=flat" alt="gabibrawl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabibrawl" alt="gabibrawl" /></a> </p>
@@ -25,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Full Stack Web-dev**
 
-- ⚡ Fun fact **whatever I say I know I actually don't**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
