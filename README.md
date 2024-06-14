@@ -7,7 +7,6 @@
 - ⚡ Fun fact **whatever I say I know I actually don't**
 - 📫 Reach me at gabrielyt219@gmail.com or check my links
 
-## About me
 <img src="https://github-readme-stats.vercel.app/api?username=GabiBrawl&show_icons=true&theme=dark"/>
 
 <!---
