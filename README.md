@@ -7,7 +7,12 @@
 - ⚡ Fun fact **whatever I say I know I actually don't**
 - 📫 Reach me at gabrielyt219@gmail.com or check my links
 
-[![GabiBrawl's GitHub | Stats](https://stats.quira.sh/GabiBrawl/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GabiBrawl)
+
+<div align="center">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=GabiBrawl">
+    <img src="https://stats.quira.sh/GabiBrawl/github?theme=dark" alt="GabiBrawl's GitHub | Stats">
+  </a>
+</div>
 
 <!---
 GabiBrawl/GabiBrawl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
