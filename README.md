@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋 I'm GabiBrawl</h1>
+<h1 align="center">Heyyy!👋 I'm GabiBrawl</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabibrawl&label=Profile%20views&color=0e75b6&style=flat" alt="gabibrawl" /> </p>
 
 - 👀 I’m interested in Programming and Tech
