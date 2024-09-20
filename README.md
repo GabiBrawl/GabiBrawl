@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m curretly working on [LePlayer Music](https://github.com/LePlayer-music), a music streaming service (maybe a self-hosted service)
 - ⚡ Fun fact **whatever I say I know I actually don't** lol :3
-- 📫 Reach me on [X](x.com/GabiBrawl)!
+- 📫 Reach me through a Pigeon or on [X](x.com/GabiBrawl)!
 
 
 <div align="center">
