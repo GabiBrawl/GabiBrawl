@@ -1,6 +1,5 @@
 <h1 align="center">
     Heyyy!👋 I'm GabiBrawl
-    <img src="https://komarev.com/ghpvc/?username=gabibrawl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="vertical-align: middle;" />
 </h1>
 
 - 👀 I’m interested in Coding and Tech
