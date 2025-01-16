@@ -3,10 +3,11 @@
     <img src="https://komarev.com/ghpvc/?username=gabibrawl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="vertical-align: middle;" />
 </h1>
 
-- 👀 I’m interested in Programming and Tech
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m curretly working on [LePlayer Music](https://github.com/LePlayer-music), a music streaming service (maybe a self-hosted service)
-- ⚡ Fun fact **whatever I say I know I actually don't** lol :3
+- 👀 I’m interested in Coding and Tech
+- 🌱 I’m currently learning Web and Embedded Development
+- 💞️ I’m curretly working on [PsychOS](https://github.com/PsychoDuckTech/PsychOS), a customizable keyboard firmware in C++
+- 🖤 Paused project: [LePlayer Music](https://github.com/LePlayer-music), a music streaming service (maybe a self-hosted service)
+- ⚡ Fun fact **I love to X** lol :3
 - 📫 Reach me through a Pigeon or on [X](https://x.com/GabiBrawl)!
 
 
