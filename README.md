@@ -4,8 +4,8 @@
 
 - 👀 I’m interested in Coding and Tech
 - 🌱 I’m currently learning Web and Embedded Development
-- 💞️ I’m curretly working on [PsychOS](https://github.com/PsychoDuckTech/PsychOS), a customizable keyboard firmware in C++
-- 🖤 Paused project: [LePlayer Music](https://github.com/LePlayer-music), a music streaming service (maybe a self-hosted service)
+- 💞️ I’m curretly working on [PsychOS](https://github.com/PsychoDuckTech/PsychOS), a customizable keyboard firmware written in C++
+- 🖤 Paused project: [LePlayer Music](https://github.com/LePlayer-music), a music streaming service (maybe self-hosted)
 - ⚡ Fun fact **I love to X** lol :3
 - 📫 Reach me through a Pigeon or on [X](https://x.com/GabiBrawl)!
 
