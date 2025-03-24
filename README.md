@@ -10,13 +10,6 @@
 - 🎧 I work better while hearing music, so here's my [Spotify Playlist](https://open.spotify.com/playlist/29FRF3n8TgRjY5Y2lGGFwV) :D
 - 📫 Reach me through a Pigeon or on [X](https://x.com/GabiBrawl)!
 
-
-<div align="center">
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=GabiBrawl">
-    <img src="https://stats.quira.sh/GabiBrawl/github?theme=dark" alt="GabiBrawl's GitHub | Stats">
-  </a>
-</div>
-
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=uvwb278pchye7ife931nk6itr&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uvwb278pchye7ife931nk6itr&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=9983ff&bar_color_cover=true" alt="Spotify GitHub Profile">
