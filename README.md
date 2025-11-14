@@ -1,14 +1,15 @@
 <h1 align="center">
-    Heyyy!👋 I'm GabiBrawl
+    Heyyy!👋 I'm 𝕲𝖆𝖇𝖎𝕭𝖗𝖆𝖜𝖑
 </h1>
 
-- 👀 I’m interested in Coding and Tech
-- 🌱 I’m currently learning Web and Embedded Development
-- 💞️ I’m curretly working on [PsychOS](https://github.com/PsychoDuckTech/PsychOS), a customizable keyboard firmware written in C++
+- 👀 I’m interested in Coding, Tech, Art 
+- 🌱 I’m currently learning Cyber Security
+- 💞️ I have worked on [PsychOS](https://github.com/PsychoDuckTech/PsychOS), a customizable keyboard firmware written in C++
+- 🔉 I built a custom website for **B_Media** that makes it much easier to browse his audio-gear recommendations.
 - 🖤 Paused project: [LePlayer Music](https://github.com/LePlayer-music), a music streaming service (maybe self-hosted)
-- ⚡ Fun fact **I love to X** lol :3
-- 🎧 I work better while hearing music, so here's my [Spotify Playlist](https://open.spotify.com/playlist/29FRF3n8TgRjY5Y2lGGFwV) :D
-- 📫 Reach me through a Pigeon or on [X](https://x.com/GabiBrawl)!
+- 📜 I have a Portfolio website which I'm constantly updating! Check it out [here](https://gabibrawl.github.io/Portfolio/)!
+- 🎧 I work better while listening to music, so here's my [Spotify Playlist](https://open.spotify.com/playlist/29FRF3n8TgRjY5Y2lGGFwV) :D
+- 📫 Reach me through a Pigeon, [X](https://x.com/GabiBrawl) or my (Discord server)[https://discord.gg/dya9adgkGP]!
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=uvwb278pchye7ife931nk6itr&redirect=true">
