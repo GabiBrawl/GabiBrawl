@@ -10,7 +10,7 @@
 - **LePlayer** - [PAUSED] Some sort of music streaming or playing project.
 
 ### [ CONTACT ]
-> **Pigeon** / **[X](https://x.com/GabiBrawl)** / **[Discord](https://discord.gg/dya9adgkGP)** / **[Portfolio](https://gabibrawl.github.io/Portfolio/)**
+> **Pigeon** / **[X](https://x.com/GabiBrawl)** / **[Discord](https://discord.gg/dya9adgkGP)** / ✦ **[My Portfolio](https://www.gabibrawl.dev)** ✦
 
 <br>
 
