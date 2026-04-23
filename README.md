@@ -5,14 +5,13 @@
 
 ### [ CURRENT_STATUS ]
 - **[B_Media](https://bmedia.gabibrawl.dev/)** - Website for finding the best audio gear ever!
-- **PsychOS** - C++ firmware for a custom modular keyboard, Kibodo One.
-- **CyberSec** - Currently in the "learning to break things" phase lolz
+- **PsychOS** - C++ firmware for my custom modular keyboard, Kibodo One.
+- **CyberSec** - Currently in the "learning to break things" phase lolz ^^
 - **LePlayer** - [PAUSED] Some sort of music streaming or playing project.
 
 ### [ CONTACT ]
-> **Pigeon** / **[X](https://x.com/GabiBrawl)** / **[Discord](https://discord.gg/dya9adgkGP)** / ✦ **[My Portfolio](https://www.gabibrawl.dev)** ✦
-
-<br>
+- ✦ **[My Portfolio](https://www.gabibrawl.dev)** ✦
+- **Pigeon** // **[X](https://x.com/GabiBrawl)** // **[Discord](https://discord.gg/dya9adgkGP)**
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=uvwb278pchye7ife931nk6itr&redirect=true">
